@@ -52,3 +52,7 @@ img {
     width: 100%;
     text-align: center;
 }
+
+.container {
+    padding-left: 30px !important;
+}
